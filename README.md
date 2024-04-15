@@ -1,5 +1,5 @@
-# BMBA-demo
-Demo for BMBA (Blind Multicast with Blind Acknowledgements) Protocol
+# BMBA-Protocol
+BMBA (Blind Multicast with Blind Acknowledgements) Protocol
 
 <img src="./images/IMG_1160.jpg" width="400px">
 
