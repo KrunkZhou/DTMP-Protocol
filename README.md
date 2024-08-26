@@ -1,5 +1,5 @@
-# BMBA-Protocol
-BMBA (Blind Multicast with Blind Acknowledgements) Protocol
+# DTMP-Protocol
+DTMP (Delay-Tolerant Multicast Protocol)
 
 <img src="./images/IMG_1160.jpg" width="400px">
 
